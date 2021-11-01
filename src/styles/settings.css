@@ -1,0 +1,19 @@
+/* All of elements settings */
+* {
+    /* Padding and margin reset */
+    margin: 0;
+    padding: 0;
+
+    /* Box sizing */
+    box-sizing: border-box;
+
+    /* Font settings */
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+/* Body settings */
+body {
+    width: 100%;
+    height: 100%;
+}
